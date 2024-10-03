@@ -54,8 +54,9 @@ Tester - (2024-Actualidad)
 * Jira
 * Zephyr
 * Confluence
-* Pruebas moóviles
+* Pruebas móviles
 * Api Testing
+* Jmeter
 * Postman
 * SQL
 * Git
