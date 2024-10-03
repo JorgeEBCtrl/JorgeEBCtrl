@@ -74,7 +74,7 @@ Mindhud LA + PROtalento + Goyin
 
 ## 🧑‍💻Proyectos
 
-## 📒 Contáctame
+## 📒Contáctame
 Puedes contactarme desde los siguientes enlaces.
 
 <a href="mailto:jorgebrichesz1@outlook.com"><img src="https://img.shields.io/badge/mail-white?style=for-the-badge&logo=gmail&logoColor=white&color=%230C8844"/></a>
