@@ -29,14 +29,14 @@ Técnico en Sistemas y Qa testing, apasionado por el mundo del software.
 * Trabajo en Equipo
 * Gestión de tiempo
 
-## Experiencia
+## 📜Experiencia
 
 Alcaldia Florida - (6 Meses)
 * 
 
 
 Tester - (2024-Actualidad)
-## Estudios
+## 👨🏾‍🎓Estudios
 
 * Tester QA Junio 20 a Noviembre 2024  230 horas
 
