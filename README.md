@@ -20,7 +20,7 @@ Técnico en Sistemas y Qa testing, apasionado por el mundo del software.
 * Kanban
 * Pruebas de accesibilidad
 * Pruebas UX/Ui
-* Pruebas Moviles
+* Pruebas Móviles
 * Git
 
 ### Soft Skills
@@ -48,6 +48,7 @@ Tester - (2024-Actualidad)
 * Metodología Scrum
 * Creación de Épicas e Historias de usuario 
 * Creación y Ejecución de casos de prueba
+* Documentación de evidencias: Casos de prueba y Bugs
 * Pruebas de accesibilidad
 * Pruebas Ux/Ui
 * Jira
