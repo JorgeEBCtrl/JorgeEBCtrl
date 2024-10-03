@@ -48,7 +48,7 @@ Mindhud LA + PROtalento + Goyin
 ## 🚀 About Me
 Puedes contactarme desde los siguientes enlaces.
 
-[![Correo](https://img.shields.io/badge/mail-white?style=for-the-badge&logo=gmail&logoColor=white&color=%230C8844)](<a href="mailto:jorgebrichesz1@outlook.com">)
+<a href="mailto:jorgebrichesz1@outlook.com"><img src="https://img.shields.io/badge/mail-white?style=for-the-badge&logo=gmail&logoColor=white&color=%230C8844"/></a>
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-enrique-briches-carabali-58a5b323b/)
 
 
